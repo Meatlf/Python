@@ -1,0 +1,3 @@
+train:
+  files_a:  &FILES_A "HaHaHa!!!"
+  files_b:  *FILES_A
