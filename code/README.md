@@ -6,3 +6,5 @@ NumPy
 待补充  
 ## 作者
 tztang
+## 参考资料
+[1] [Python 基础教程](https://www.runoob.com/python/python-tutorial.html)
